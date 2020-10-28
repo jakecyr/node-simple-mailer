@@ -1,0 +1,18 @@
+{
+    "name": "simple-node-mailer",
+    "version": "1.0.0",
+    "description": "Simple Node Email Library",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "mail",
+        "email"
+    ],
+    "author": "Jake Cyr",
+    "license": "ISC",
+    "dependencies": {
+        "nodemailer": "^6.4.14"
+    }
+}

@@ -1,8 +1,11 @@
 {
     "name": "simple-node-mailer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Simple Node Email Library",
     "main": "index.js",
+    "repository": {
+        "url": "https://github.com/jakecyr/node-simple-mailer"
+    },
     "scripts": {
         "start": "node index.js"
     },
